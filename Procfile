@@ -1,1 +1,0 @@
-web: grunicorn app:app
